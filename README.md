@@ -26,4 +26,4 @@ Markdown is a way to style text on the web. You control the display of the docum
 
 
 ## here a link to dictinary : https://dictionary.cambridge.org/dictionary/english-arabic/
-https://www.cram.com/
+**VCARD :https://www.cram.com/
