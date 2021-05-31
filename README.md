@@ -25,5 +25,5 @@ Markdown is a way to style text on the web. You control the display of the docum
 4. https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 
-## here a link to dictinary : https://www.google.com/search?q=dictionary+english+to+arabic&oq=Dictionary&aqs=chrome.1.69i57j0l9.11053j0j4&sourceid=chrome&ie=UTF-8
+## here a link to dictinary : https://dictionary.cambridge.org/dictionary/english-arabic/
 https://www.cram.com/
