@@ -2,5 +2,5 @@
 #### 1. every day is a new oppercunity to live 
 #### 2. the life is sweet but when we unerstand it 
 #### 3. be the change that you wnnt to see in the world
-[growth mind set](https://www.wtps.org/Page/25908)
-![groth mind set](https://www.wtps.org/Page/25908)
+
+![groth mind set](https://www.wtps.org/Page/25908.png)
