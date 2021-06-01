@@ -8,9 +8,9 @@ Table of contacts :
 
 |-----------------------------------------------------|
 |-----------------------------------------------------|
-|1.growth mind             |  [growth mind](https://qaisalshorman.github.io/Read-Me/growth-mind)|
+| growth mind             |  [growth mind](https://qaisalshorman.github.io/Read-Me/growth-mind)|
 |-----------------------------------------------------|
 |-----------------------------------------------------|
-|2.smrizing and reading    | [smrizing and reading ](https://qaisalshorman.github.io/Read-Me/reading%20note)|
+|smrizing and reading    | [smrizing and reading ](https://qaisalshorman.github.io/Read-Me/reading%20note)|
 |------------------------------------------------------                          |
 
