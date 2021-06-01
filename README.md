@@ -12,12 +12,12 @@
 
 
 
-| growth mind              |  [growth mind](https://qaisalshorman.github.io/Read-Me/growth-mind)|
+| growth mind              |[growth mind](https://qaisalshorman.github.io/Read-Me/growth-mind)|
 |--------------------------|--------------------------------------------------------------------|
  
  
  
 
-| smrizing and reading    | [smrizing and reading ](https://qaisalshorman.github.io/Read-Me/reading%20note)|
+| smrizing and reading    |[smrizing and reading ](https://qaisalshorman.github.io/Read-Me/reading%20note)|
 |-------------------------|--------------------------------------------------------------------------------|
 
