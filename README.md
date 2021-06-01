@@ -17,6 +17,6 @@ growth mind             |  [growth mind](https://qaisalshorman.github.io/Read-Me
  |--------------------------------------|
  
  |--------------------------------------|
-|smrizing and reading    | [smrizing and reading ](https://qaisalshorman.github.io/Read-Me/reading%20note)
+smrizing and reading    | [smrizing and reading ](https://qaisalshorman.github.io/Read-Me/reading%20note)
 |---------------------------------------|
 
