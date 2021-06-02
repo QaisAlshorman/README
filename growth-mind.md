@@ -3,4 +3,5 @@
 #### 2. the life is sweet but when we unerstand it 
 #### 3. be the change that you wnnt to see in the world
 
-![groth mind set](https://www.wtps.org/Page/25908.png)
+![groth mind set](https://i.pinimg.com/originals/71/5b/54/715b542fb026221ff373a15b984d5767.png)
+
